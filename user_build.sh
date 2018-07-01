@@ -1,0 +1,1 @@
+sudo docker build -t blade-symphony-docker --build-arg "username=myusername" --build-arg "password=mypassword" --build_arg "steam_guard=Run this script with blank first, get the code and then add it.".
